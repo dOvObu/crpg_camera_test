@@ -1,6 +1,6 @@
 # crpg camera test
 
-![result](result.mp4)
+[![result](result_preview_with_play_btn.png)](result.mp4)
 
 user input:
 - `wasd` and arrwos — movement of camera
