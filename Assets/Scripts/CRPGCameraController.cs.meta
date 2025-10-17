@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 97ebc053a538f4c05b7231ef0d961460
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _normalCamera: {instanceID: 0}
+  - _tacticalCamera: {instanceID: 0}
+  - _camera: {instanceID: 0}
+  - _player: {instanceID: 0}
+  - _inputMappingAsset: {fileID: -944628639613478452, guid: 9825f10af1fb841cf8eccdcdf15a33ca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
